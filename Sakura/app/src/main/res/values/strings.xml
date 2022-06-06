@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sakura</string>
+    <string name="main_title">Sakura</string>
+    <string name="LUIS_t">Write about your day</string>
+    <string name="FR_t">Pose about your day</string>
+    <string name="calendar">Check progress</string>
+    <string name="sakura_message">Sakura</string>
+    <string name="send">SEND</string>
+    <string name="enter_message">Enter message</string>
+    <string name="fwd"><![CDATA[->]]></string>
+    <string name="bckwd"><![CDATA[<-]]></string>
+</resources>
